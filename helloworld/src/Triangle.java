@@ -11,9 +11,9 @@ public class Triangle {
         this.side1=h;
         this.side2=b;
     }
-    public float getArea
+
     public static void main(String[] args) {
         Triangle t = new Triangle(3, 5);
-        System.out.println(t.printDetails());
+        //System.out.println(t.printDetails());
     }
 }

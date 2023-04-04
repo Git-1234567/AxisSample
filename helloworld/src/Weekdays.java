@@ -17,5 +17,6 @@ import java.util.*;
             case 7:System.out.println("Saturday");break;
             default:System.out.println("Invalid");
         }
+        //modified
     }
 }
